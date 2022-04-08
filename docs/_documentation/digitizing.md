@@ -3,7 +3,7 @@ title: Digitizing
 navcat: Workflows
 tags: cataloging, georeferencing, quick-start
 toc_sticky: true
-last_modified_at: 2022-02-22
+last_modified_at: 2022-02-01
 ---
 
 Digitization initiatives at LACMIP are primarily supported by the National Science Foundatoin. "Digitization" itself is a broad term and includes the variety of workflows outlined here. For a more thorough review of digitization workflows, see [Nelson *et al.* 2012](https://doi.org/10.3897/zookeys.209.3135).
@@ -105,7 +105,34 @@ If you participate in any post-digitization activities for a given tray, please 
 As of ** 2022** LACMIP will no longer paint their specimens. Instead, LACMIP staff will only label taxonomic specimens. Please follow the updated workflow on specimen labeling. Transcribe the catalog number on an archival sheet of paper using a Micron pigma pen and use Paraloid B-72 20% to affix the tag to the specimen. Paint a thin layer of Paraloid B-72 10% over the affixed specimen tag. 
 {: .notice--warning}
 
-Most LACMIP specimens already have locality numbers glued or painted on them. For this reason, the need for painting is limited, and this step is mostly completed by LACMIP staff. 
+## Numbering
+
+### Paper numbers
+
+{% include figure image_path="/assets/images/digitization_numbering.png" alt="" caption="Supplies need to create paper specimen numbers." %}
+{% include figure image_path="/assets/images/digitization_numbering2.png" alt="" caption="Letters and numbers should be written according to this example." %}
+
+Most LACMIP specimens already have locality numbers glued or painted on them. For this reason, the need for numbering is presently limited to taxonomic specimens. Labels should be completely and solidly adhered to specimens with both a basecoat and topcoat of B-72.
+
+Supplies required for numbering...
+- 01 black Pigma Micron pen
+- 20lb white archival paper
+- ~10-20% Paraloid B-72 in ethanol
+- laser jet printer
+- scissors, forceps
+
+A few tips for numbering...
+- Use either a 01 or 005 black Pigma Micron pen to number.
+- Press lightly and use short pen strokes, as though you are "painting" the letters and numbers on.
+
+A blank number template can be downloaded from [here](https://github.com/LACMIP/emu/blob/master/docs/assets/images/Blank_spm_numbers.pdf).
+
+### Painted numbers
+This numbering method has been retired, but is archived here for reference. See above.
+{: .notice--warning}
+
+Vials can be numbered one day after painting.
+
 A few tips for painting...
 - **All vials should be painted with a stripe** extending ~3/4" from the bottom and is ~1/8" wide. The "stripe checker" tool, as seen in the image here, can help guide you when you are new to this process.
 <img src="{{ site.baseurl }}/assets/images/digitization_stripechecker.jpg" alt="" width="400"/>{: .align-center}
@@ -114,25 +141,14 @@ A few tips for painting...
 - Steady the vial against a hard surface.
 - Stand vials on their lids (upside-down) to dry.
 - Paint should left to dry overnight before numbering.
-
-**Do not let paint dry to your brush! This will ruin it.** Keep a water cup and paper towel handy for quick cleaning. As soon as you have finished painting or need a break, wash your brush thoroughly. 
-{: .notice--warning}
-
-## Numbering
-
-Vials can be numbered one day after painting.
-
-{% include figure image_path="/assets/images/digitization_numbering.png" alt="" caption="Letters and numbers should be written according to this example." %}
-
-A few tips for numbering...
-- Use either a 01 or 005 black Pigma Micron pen to number.
-- Press lightly and use short pen strokes, as though you are "painting" the letters and numbers on.
-- Steady the vial against a hard surface.
 - Avoid touching the ink before it’s dried. (Complete drying takes several hours.)
 - If a specimen lot has more than one catalog number, both need to be written on the vial.
 - **Neatness counts!**
 
 **Writing on semi-dry paint will ruin Micron pens**; please wait at least 24 hours after painting to number vials.
+{: .notice--warning}
+
+**Do not let paint dry to your brush! This will ruin it.** Keep a water cup and paper towel handy for quick cleaning. As soon as you have finished painting or need a break, wash your brush thoroughly. 
 {: .notice--warning}
 
 ## Labels
