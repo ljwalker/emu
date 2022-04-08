@@ -101,10 +101,6 @@ Post-digitization curation steps important components of the overall digitizatio
 If you participate in any post-digitization activities for a given tray, please add your name and date to the appropriate columns on the digitization worksheet:
 <img src="{{ site.baseurl }}/assets/images/digitizing_postdigitizationworksheet.png" alt="" width="500"/>{: .align-center}
 
-## Painting -ARCHIVED from Digitization PEN: Collaborative Research: The Cretaceous World: Connecting the Cretaceous Seas of North America
-As of ** 2022** LACMIP will no longer paint their specimens. Instead, LACMIP staff will only label taxonomic specimens. Please follow the updated workflow on specimen labeling. Transcribe the catalog number on an archival sheet of paper using a Micron pigma pen and use Paraloid B-72 20% to affix the tag to the specimen. Paint a thin layer of Paraloid B-72 10% over the affixed specimen tag. 
-{: .notice--warning}
-
 ## Numbering
 
 ### Paper numbers
@@ -112,7 +108,7 @@ As of ** 2022** LACMIP will no longer paint their specimens. Instead, LACMIP sta
 {% include figure image_path="/assets/images/digitization_numbering.png" alt="" caption="Supplies need to create paper specimen numbers." %}
 {% include figure image_path="/assets/images/digitization_numbering2.png" alt="" caption="Letters and numbers should be written according to this example." %}
 
-Most LACMIP specimens already have locality numbers glued or painted on them. For this reason, the need for numbering is presently limited to taxonomic specimens. Labels should be completely and solidly adhered to specimens with both a basecoat and topcoat of B-72.
+Most LACMIP specimens already have locality numbers glued or painted on them. For this reason, the need for numbering is presently limited to taxonomic specimens. New number labels should be completely and solidly adhered to specimens with both a basecoat and topcoat of B-72.
 
 Supplies required for numbering...
 - 01 black Pigma Micron pen
